@@ -230,7 +230,7 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   Twitter: twitter
   Weibo: weibo
-  GitHub: github
+  GitHub: fa-github
   Bilibili: youtube-play
   E-Mail: envelope
 
