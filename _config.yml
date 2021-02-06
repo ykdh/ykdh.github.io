@@ -118,10 +118,10 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
-  #about: /about/
   archives: /archives/
+  categories: /categories/
   tags: /tags/
+  #about: /about/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -230,7 +230,7 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   Twitter: twitter
   Weibo: weibo
-  GitHub: fa-github
+  GitHub: github
   Bilibili: youtube-play
   E-Mail: envelope
 
